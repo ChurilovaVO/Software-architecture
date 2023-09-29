@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum Engine {
+public enum TypeEngine {
+    Petrol,
+    Diesel
 }

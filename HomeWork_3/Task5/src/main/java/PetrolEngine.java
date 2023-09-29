@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class PetrolEngine {
+public interface PetrolEngine {
+    public void start();
 }
