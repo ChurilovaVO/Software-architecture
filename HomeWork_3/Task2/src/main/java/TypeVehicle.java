@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum TypeVehicle {
+public enum TypeVehicle {
+    CAR,
+    BUS
 }
