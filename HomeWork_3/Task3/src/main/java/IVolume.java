@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IVolume {
+public interface IVolume {
+    double volume();
 }
